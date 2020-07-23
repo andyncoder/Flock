@@ -1,0 +1,13 @@
+
+
+.main-layout {
+    background-image: url('/img/flock.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-layout-mountain {
+    background-image: url('/img/mountains.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,75 @@
+.login-content {
+  height: 100%;
+}
+
+.logonForm {
+    text-align: left;
+    padding: 1em;
+    margin: 1em;
+    /*border: 2px solid #d3d3d3;
+    border-radius: .5em;*/
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+    text-align: center;
+  }
+  
+  .form {
+    padding: 1em;
+  }
+  
+  label {
+    display: flex;
+    font-weight: 600;
+  }
+  
+  button {
+    justify-content: flex-end;
+  }
+  
+  .LogonForm-title {
+    font-size: 1.5em;
+  }
+  
+  .LogonForm-intro {
+    font-size: large;
+  }
+  
+
+  .logonForm label {
+    font-family: "MuseoSans700", Arial, sans-serif;
+    font-weight: normal;
+    color: #758693;
+    font-size: 12px;
+    line-height: 1.16667em;
+    text-transform: uppercase;
+  }
+
+  .logonForm button {
+    width :100%;
+  }
+
+  .logonForm .title {
+    
+    margin-bottom: 32px;
+    text-align: left;
+    color: rgb(39, 40, 42);
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .form-banner-image {
+    background-image: url('/img/mountains.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    display:block;
+  }
+
+  .btn-lg {
+    padding: 8px 20px;
+    font-size: 13px;
+    line-height: 1.65;
+    border-radius: 20px;
+  }

@@ -1,0 +1,12 @@
+
+html, body {
+   height: 100%;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+   display: block;
+}
+
+.deck-content {
+   padding: 66px 0px 0px;
+}

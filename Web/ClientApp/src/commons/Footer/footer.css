@@ -1,0 +1,25 @@
+.footer {
+    width: 100%;
+    background-color: #fff;
+    /*padding: 80px 0 50px;*/
+    padding-bottom:  50px;
+}
+
+
+.nav-title {
+    color: #919496;
+    font-size: 12px;
+    letter-spacing: .08em;
+    margin: 50px 0 22px;
+    text-transform: uppercase;
+}
+
+.footer .nav a {
+    color:#1a1919;
+}
+
+.footer .nav-title.brand {
+    color:#1a1919;
+    font-size: 1.2em;
+    text-transform: none;
+}

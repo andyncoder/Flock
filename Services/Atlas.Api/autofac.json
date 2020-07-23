@@ -1,0 +1,14 @@
+﻿{
+  "modules": [
+    {
+      "type": "Flock.Atlas.Api.Module, Atlas.Api",
+      "properties": {
+      }
+    },
+    {
+      "type": "Flock.Onboard.Application.Infrastructure.ApplicationModule, Onboard.Infrastructure",
+      "properties": {
+      }
+    }
+  ]
+}

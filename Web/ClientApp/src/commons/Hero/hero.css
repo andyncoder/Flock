@@ -1,0 +1,46 @@
+.hero {
+    padding: 66px 0px 0px;
+}
+
+.hero .spice {
+    background-image: url('/img/orange.jpg');
+    background-size: cover;
+    position: relative;
+    z-index: 10;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 46px;
+    height: calc(100vh - 120px);
+    background-position: center top;
+}
+
+.hero .sell {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 1074px;
+    padding: 75px 36px;
+}
+
+.hero .sell h1 {
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 800;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    font-family: proxima-nova, "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    white-space: inherit;
+    text-overflow: inherit;
+    text-align: center;
+    transition: all 0.2s linear 0s;
+    margin: 0px 0px 10px;
+    overflow: inherit;
+}

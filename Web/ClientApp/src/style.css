@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+ }
+
+ .h-100 {
+    height: 100%!important;
+}
+
+#root {
+    height: 100%!important;
+}
+
+.main-layout {
+    height: 100%!important;
+}
+
+.content {
+    height: 100%;
+}
+
+.feature-block {
+    padding-top: 36px;
+    margin-bottom: 36px;
+}
+
+
+.feature-block ul {
+    list-style-type: none;
+}
+
+.p-100 {
+    padding-top: 100px;
+}
+
+.content {
+    padding: 66px 0px 0px;
+    margin-bottom: 66px;
+}
+
+.headerBar {
+    font-size: 56px;
+    line-height: 70px;
+    font-weight: 700;
+}

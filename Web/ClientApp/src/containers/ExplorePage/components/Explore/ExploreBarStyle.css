@@ -1,0 +1,51 @@
+
+.exploreBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.exploreBarLine {
+    display: inline;
+    float: left;
+    border-bottom: 2px solid rgb(237, 242, 245);
+    padding-bottom: 32px;
+}
+
+.exploreBarItem  {
+    display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 18px;
+    line-height: 33px;
+}
+
+.exploreBarLine a {
+    color: rgb(145, 150, 152);
+    padding: 0px 0px 23px;
+    padding-bottom: 35px;
+}
+
+.exploreBarLine a:hover {
+    text-decoration: none;  
+    color: rgb(39, 40, 42);
+    border-bottom: 2px solid rgb(19, 168, 158);
+}
+
+
+.exploreBarLine.active a {
+    border-bottom: 2px solid rgb(19, 168, 158);
+}
+
+.exploreBarHeader {
+    color: rgb(39, 40, 42);
+    font-size: 56px;
+    line-height: 70px;
+    font-weight: 700;
+}

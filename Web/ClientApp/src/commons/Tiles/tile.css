@@ -1,0 +1,28 @@
+.tile-content {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 580px;
+    position: relative;
+    background-color: rgb(39, 40, 42);
+    padding:36px;
+    
+}
+
+.tile {
+    background-color: #fff
+}
+
+.card {
+    border-radius: 3px;
+}
+
+.card-title {
+    position: absolute;
+    bottom: 0;
+    font-weight: 600;
+    font-size: 18px;
+}
